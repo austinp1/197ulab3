@@ -1,0 +1,7 @@
+Go to the GitHub web interface, and go to your repository. You’ll be able to make a new file by clicking
+the “Create new file” button. Name it whatever you’d like and fill in some content. Make sure you
+use a detailed commit message.
+Now pull the change you made from the web interface to your local repository. Validate that your file
+you created in the web interface is in your local repository.
+Q: What command did you use to pull the remote commit to your local repository? What was the
+output of the command?
